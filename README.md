@@ -1,4 +1,4 @@
-# External Coupons Integration
+# Support Initiated Coupons
 
 ## Overview
 
