@@ -15,6 +15,8 @@ The Coupon API will massage the data and insert a `coupon-token` record in our d
 
 The newly created `coupon-token` will contain the sanity identifier for this **coupon**, and the user cognito id.
 
+`coupon-tokens` are our way of storing how many of each **coupon** a user has
+
 When a customer visits the web app, we request all the **coupons** from sanity, then evaluate which `coupon-tokens` have been assigned to the user.
 
 After evaluation, if the user has any **coupons**, it should appear in the "Offers" tab of the web application.
