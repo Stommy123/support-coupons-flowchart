@@ -49,7 +49,7 @@ After evaluation, if the user has any **coupons**, it should appear in the "Offe
 customerByEmail(email: String!)
 ```
 
-#### Sample Output omitted properties that were not relevant. Can go into details about the coupon list / order list shapes if need be
+#### Sample Output (omitted properties that were not relevant. Can go into details about the coupon list / order list shapes if need be)
 
 ```
 {
