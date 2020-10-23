@@ -25,8 +25,8 @@ After evaluation, if the user has any **coupons**, it should appear in the "Offe
 
 ## Admin GQL Endpoint
 
-- https://prod-\$brand-admin.rbictg.com/graphql
-  - \$brand can be either `bk` | `plk` | `th`
+- https://prod-brand-admin.rbictg.com/graphql
+  - brand can be either `bk` | `plk` | `th`
 
 ## Authentication Header
 
