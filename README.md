@@ -21,7 +21,7 @@ When a customer visits the web app, we request all the **coupons** from sanity, 
 
 After evaluation, if the user has any **coupons**, it should appear in the "Offers" tab of the web application.
 
-## Flow Chart (Click to see enlarged img)
+## Flow Chart [(Click to see enlarged img)](https://github.com/rbilabs/support-coupon-summary/blob/master/flow-chart.png)
 
 ![](flow-chart.png)
 
